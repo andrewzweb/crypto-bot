@@ -4,7 +4,7 @@
 
 - [x] get data about the order book
 - [x] update data via websocket
-- [ ] print best ask and bit every minute in console
+- [x] print best ask and bit every minute in console
 
 # Run bot 
 
